@@ -6,7 +6,7 @@
 
 ## About me
 
-Hi, I'm sundy
+Hi, I'm sundy.A game developer
 
 | Rank | Languages |
 |-----:|-----------|
